@@ -64,7 +64,7 @@ const experience = [
     id: 'tbc-bank',
     role: 'Senior System & Solutions Analyst',
     company: 'TBC Bank',
-    date: '2019 — 2025',
+    date: '2019 — Present',
     detail: 'Designed scalable integration workflows, campaign automation logic, and enterprise system architecture across banking products.',
     star: 'Architected event-driven integration patterns across 30+ enterprise systems using API logic, mapping rules, and error-handling schemas.'
   },
